@@ -30,7 +30,7 @@ security:
         # Enable protection against brute force login attacks
         enabled: false
         # Number of failed attempts before triggering a ban
-        max_failures: 300000000
+        max_failures: 5
         # Time window in seconds for counting failures
         window_seconds: 30
         # Duration in seconds for the first ban
