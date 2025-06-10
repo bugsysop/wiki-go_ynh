@@ -39,6 +39,9 @@ OK -- install
 OK -- Uninstall
 OK -- use of `is_admin` in `config.yaml`  
 OK -- post-install notice in YNH Admin
-OK -- edit config file from admin  
+OK -- edit config file from admin
+OK -- backup
+OK -- restore from backup
+FAILED -- upgrade (502 Bad Gateway)
 ```
 ---  
