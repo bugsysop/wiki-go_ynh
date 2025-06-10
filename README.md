@@ -42,7 +42,8 @@ OK -- post-install notice in YNH Admin
 OK -- edit config file from admin
 OK -- backup
 OK -- restore from backup
-FAILED -- upgrade (502 Bad Gateway): 1.4.5 > 1.5.6
 OK -- upgrade to same version (1.4.5~ynh1 > 1.4.5~ynh1)
+OK -- upgrade (1.4.5~ynh1 > 1.5.6~ynh1)
+OK -- change URL
 ```
 ---  
