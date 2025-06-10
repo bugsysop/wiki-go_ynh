@@ -30,3 +30,15 @@ You may also be interested in specifying the following parameters for yunohost a
 - `--force` : so that you are not asked confirmation if the app is not safe to use (low quality, experimental or 3rd party), or when the app displays a post-install notification.
 
 App packaging for YNH documentation: <https://doc.yunohost.org/packaging_apps>
+
+---
+### Logs
+
+```
+OK -- install
+OK -- Uninstall
+OK -- use of `is_admin` in `config.yaml`  
+OK -- post-install notice in YNH Admin
+OK -- edit config file from admin  
+```
+---  
