@@ -43,5 +43,6 @@ OK -- edit config file from admin
 OK -- backup
 OK -- restore from backup
 FAILED -- upgrade (502 Bad Gateway): 1.4.5 > 1.5.6
+OK -- upgrade to same version (1.4.5~ynh1 > 1.4.5~ynh1)
 ```
 ---  
