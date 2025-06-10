@@ -21,6 +21,9 @@ ynh_script_progression "Upgrading source files..."
 
 ynh_setup_source --dest_dir="$install_dir" --full_replace --keep="data"
 
+#Test: make executable
+chmod +x "$install_dir/wiki-go"
+
 #=================================================
 # UPDATE A CONFIG FILE
 #=================================================
