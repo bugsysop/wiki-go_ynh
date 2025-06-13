@@ -40,5 +40,5 @@ users:
     - username: __ADMIN__
       # Default password: demo123
       password: $2a$10$eJtF6/g7dpPtWv6QP9jmVuybt4uTFlb.r5Q2paCqmWHcl.W5DfSba
-      # Aviable roles: admin | editor
+      # Available roles: admin | editor
       role: admin
