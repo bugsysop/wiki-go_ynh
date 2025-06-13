@@ -4,35 +4,25 @@ It shall NOT be edited by hand.
 -->
 
 <h1>
-  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/wiki-go.png" width="32px" alt="Logo of Wiki-Go">
-  Wiki-Go, packaged for YunoHost
+  <!-- <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/wiki-go.png" width="32px" alt="Logo of Wiki-Go"> -->
+  Wiki-Go for YunoHost
 </h1>
 
-Databaseless flat-file wiki platform
+This branch ist _only_ for configuration and customization of Wiko-Go instance on tmprs.net.    
+Based on version: 1.5.6~ynh1
 
-[![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://wikigo.leomoon.com/)
-[![Version: 1.4.5~ynh1](https://img.shields.io/badge/Version-1.4.5~ynh1-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/wiki-go/)
+## Developer info
 
-<div align="center">
-<a href="https://apps.yunohost.org/app/wiki-go"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
-<a href="https://github.com/YunoHost-Apps/wiki-go_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
-</div>
+🛠️ Upstream Wiki-Go repository: <https://github.com/leomoon-studios/wiki-go>     
+🛠️ Yunohost package repository: <https://github.com/YunoHost-Apps/wiki-go_ynh>
 
-## 📦 Developer info
-
-[![Automatic tests level](https://apps.yunohost.org/badge/cilevel/wiki-go)](https://ci-apps.yunohost.org/ci/apps/wiki-go/)
-
-🛠️ Upstream Wiki-Go repository: <https://github.com/leomoon-studios/wiki-go>
-
-Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/wiki-go_ynh/tree/testing).
-
-The `testing` branch can be tested using:
+This branch can be tested using:
 ```
 # fresh install:
-sudo yunohost app install https://github.com/YunoHost-Apps/wiki-go_ynh/tree/testing
+sudo yunohost app install https://github.com/bugsysop/wiki-go_ynh/tree/custom
 
 # upgrade an existing install:
-sudo yunohost app upgrade wiki-go -u https://github.com/YunoHost-Apps/wiki-go_ynh/tree/testing
+sudo yunohost app upgrade wiki-go -u https://github.com/bugsysop/wiki-go_ynh/tree/custom
 ```
 
 ### 📚 App packaging documentation
