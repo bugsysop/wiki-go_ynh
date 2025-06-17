@@ -9,7 +9,7 @@ server:
 wiki:
     root_dir: data
     documents_dir: documents
-    title: "Wiki-Go"
+    title: "Documentation"
     owner: tmprs.net
     notice: Libre comme l’air, l’eau, le feu.
     timezone: __TIMEZONE__
