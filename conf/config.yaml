@@ -40,5 +40,5 @@ users:
     - username: __ADMIN__
       # Default password: admin
       password: $2y$10$L7GA6VqSHa/7i.2pmkGXueh0CXJXXbt3T0lUuv4A7iPbRYOmdAEb6
-      # Available roles: admin | editor
+      # Available roles: admin | editor | viewer
       role: admin
