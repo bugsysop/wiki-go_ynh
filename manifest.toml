@@ -62,11 +62,11 @@ ram.runtime = "50M"
     extract = false
     rename = "wiki-go"
     amd64.url = "https://github.com/leomoon-studios/wiki-go/releases/download/v1.6.0/wiki-go-linux-amd64"
-    amd64.sha256 = "sha256:9411f8d8aa225d4a8d1d678ffa86d2552b1ce7584d8a7e8bbeb25873de2bb965"
+    amd64.sha256 = "9411f8d8aa225d4a8d1d678ffa86d2552b1ce7584d8a7e8bbeb25873de2bb965"
     arm64.url = "https://github.com/leomoon-studios/wiki-go/releases/download/v1.6.0/wiki-go-linux-arm64"
-    arm64.sha256 = "sha256:f7c5eda49f2226b526b1331789c2b43a372895e3bd28e9d7a406c36a69b681e5"
+    arm64.sha256 = "f7c5eda49f2226b526b1331789c2b43a372895e3bd28e9d7a406c36a69b681e5"
     armhf.url = "https://github.com/leomoon-studios/wiki-go/releases/download/v1.6.0/wiki-go-linux-armv7"
-    armhf.sha256 = "sha256:2e2db08391d72c96b3b69b959f5af41ef5b058c0f839d3b63d99d868bacb8fbb"
+    armhf.sha256 = "2e2db08391d72c96b3b69b959f5af41ef5b058c0f839d3b63d99d868bacb8fbb"
 
     # autoupdate.strategy = "latest_github_tag"
 
