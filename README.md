@@ -7,7 +7,7 @@ This branch is _only_ for configuration and customization of Wiko-Go instance on
 
 Have in mind that actually there is _no_ official App Package to install Wiki-Go on Yunohost. 
 
-Version: 1.7.2~ynh1
+Version: 1.7.5~ynh1
 
 ## Demo Site
 
