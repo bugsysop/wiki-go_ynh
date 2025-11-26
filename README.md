@@ -3,6 +3,10 @@
   Wiki-Go for YunoHost
 </h1>
 
+LeoMoon Wiki-Go is a simple, modern, feature-rich, flat-file based wiki platform using Markdown formating for content. It provides a clean, intuitive interface for creating and managing knowledge bases, documentation, and collaborative content. Built with Go and using no external database, this a low ressource system with zero maintenance and zero dependencies. 
+
+## About this app
+
 This branch is _only_ for configuration and customization of Wiko-Go instance on tmprs.net. 
 
 Have in mind that actually there is _no_ official App Package to install Wiki-Go on Yunohost. 
@@ -35,4 +39,3 @@ Upgrade an existing install:
 ```
 sudo yunohost app upgrade wiki-go -u https://github.com/bugsysop/wiki-go_ynh/tree/custom
 ```
-
