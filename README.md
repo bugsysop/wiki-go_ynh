@@ -3,7 +3,7 @@
   Wiki-Go for YunoHost
 </h1>
 
-LeoMoon Wiki-Go is a simple, modern, feature-rich, flat-file based wiki platform using Markdown formating for content. It provides a clean, intuitive interface for creating and managing knowledge bases, documentation, and collaborative content. Built with Go and using no external database, this a low ressource system with zero maintenance and zero dependencies. 
+LeoMoon Wiki-Go is a simple, modern, feature-rich, flat-file based wiki platform using Markdown formatting for content. It provides a clean, intuitive interface for creating and managing knowledge bases, documentation, and collaborative content. Built with Go and using no external database, this a low resource system with zero maintenance and zero dependencies. 
 
 Version: 1.7.6~ynh1
 
