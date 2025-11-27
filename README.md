@@ -5,13 +5,19 @@
 
 LeoMoon Wiki-Go is a simple, modern, feature-rich, flat-file based wiki platform using Markdown formating for content. It provides a clean, intuitive interface for creating and managing knowledge bases, documentation, and collaborative content. Built with Go and using no external database, this a low ressource system with zero maintenance and zero dependencies. 
 
-## About this app
+Version: 1.7.6~ynh1
 
-This branch is _only_ for configuration and customization of Wiko-Go instance on tmprs.net. 
+## About this package
 
 Have in mind that actually there is _no_ official App Package to install Wiki-Go on Yunohost. 
 
-Version: 1.7.5~ynh1
+As it stands, this branch is designed _only_ for configuration and customization of Wiko-Go instances on tmprs.net servers. 
+
+In practical terms, this means:
+
+- No upgrade prompt in YNH Admin interface for new version of this package.
+- Very limited testing (only on `amd64`) and very limited user base.
+- Daily spamming by YNH for using a “unsecure” App. To avoid this, disable _notifications_ for each Wiki-Go instance in “Diagnostics”. 
 
 ## Demo Site
 
