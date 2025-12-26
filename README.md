@@ -9,15 +9,15 @@ Version: > upgrade to v1.8.1~ynh1
 
 ## About this package
 
-Have in mind that actually there is _no_ official App Package to install Wiki-Go on Yunohost. 
-
-As it stands, this branch is designed _only_ for configuration and customization of Wiko-Go instances on tmprs.net servers. 
+As it stands, this branch is designed _only_ for configuration and customization of Wiki-Go instances on tmprs.net servers. 
 
 In practical terms, this means:
 
 - No upgrade prompt in YNH Admin interface for new version of this package.
 - Very limited testing (only on `amd64`) and very limited user base.
-- Daily spamming by YNH for using a “unsecure” App. To avoid this, disable _notifications_ for each Wiki-Go instance in “Diagnostics”. 
+- Daily spamming by YNH for using a “unsecure” App. To avoid this, disable _notifications_ for each Wiki-Go instance in “Diagnostics”.
+
+We realy encourage you to use the _official_ App Package to install Wiki-Go on Yunohost.
 
 ## Demo Site
 
