@@ -5,7 +5,7 @@
 
 LeoMoon Wiki-Go is a simple, modern, feature-rich, flat-file based wiki platform using Markdown formatting for content. It provides a clean, intuitive interface for creating and managing knowledge bases, documentation, and collaborative content. Built with Go and using no external database, this a low resource system with zero maintenance and zero dependencies. 
 
-Version: > upgrade to v1.8.1~ynh1
+Version: 1.8.1~ynh1
 
 ## About this package
 
